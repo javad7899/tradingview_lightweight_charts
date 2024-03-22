@@ -1,0 +1,13 @@
+html,
+body,
+#root,
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.chartContainer{
+  height: 100%;
+}
